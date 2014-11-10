@@ -1122,15 +1122,15 @@
       <assignment contextid="Button20" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" shiftstate="3" backup="false" original="false"/>
       <assignment contextid="Button20" macroguid="{FF9D12D3-1328-4E3E-91E4-BD51FEEB502D}" shiftstate="4" backup="false" original="false"/>
       <assignment contextid="Button20" macroguid="{E1BBB279-B80E-4E7E-A4C8-59147195B49C}" shiftstate="5" backup="false" original="false"/>
-      <assignment contextid="Button9" macroguid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" shiftstate="1" backup="false" original="false"/>
-      <assignment contextid="Button10" macroguid="{EF9BDE18-6D40-46EC-BB6F-2B6B97FC4708}" shiftstate="1" backup="false" original="false"/>
-      <assignment contextid="Button11" macroguid="{2C5D832D-01A5-4BA7-BF2F-C9D0F02F9B9B}" shiftstate="1" backup="false" original="false"/>
       <assignment contextid="Button12" macroguid="{F065C8A3-6B5B-452D-AC9D-34134D64C2F0}" shiftstate="1" backup="false" original="false"/>
       <assignment contextid="Button13" macroguid="{0F69FAA0-21C8-4B30-A882-9E056A0D4746}" shiftstate="1" backup="false" original="false"/>
       <assignment contextid="Button14" macroguid="{E46C2370-6DA6-4E19-9F59-9CD725048449}" shiftstate="1" backup="false" original="false"/>
-      <assignment contextid="Button15" macroguid="{6019D195-A6D4-4521-B138-E6A980E7DB4B}" shiftstate="1" backup="false" original="false"/>
-      <assignment contextid="Button16" macroguid="{A1477CB4-0BC2-4AD0-98A9-91DFD6440205}" shiftstate="1" backup="false" original="false"/>
-      <assignment contextid="Button17" macroguid="{7C31DF1D-33DA-40E8-BE66-F297B1B831FC}" shiftstate="1" backup="false" original="false"/>
+      <assignment contextid="Button9" macroguid="{6019D195-A6D4-4521-B138-E6A980E7DB4B}" shiftstate="1" backup="false" original="false"/>
+      <assignment contextid="Button10" macroguid="{A1477CB4-0BC2-4AD0-98A9-91DFD6440205}" shiftstate="1" backup="false" original="false"/>
+      <assignment contextid="Button11" macroguid="{7C31DF1D-33DA-40E8-BE66-F297B1B831FC}" shiftstate="1" backup="false" original="false"/>
+      <assignment contextid="Button15" macroguid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" shiftstate="1" backup="false" original="false"/>
+      <assignment contextid="Button16" macroguid="{EF9BDE18-6D40-46EC-BB6F-2B6B97FC4708}" shiftstate="1" backup="false" original="false"/>
+      <assignment contextid="Button17" macroguid="{2C5D832D-01A5-4BA7-BF2F-C9D0F02F9B9B}" shiftstate="1" backup="false" original="false"/>
     </assignments>
     <pointers>
       <pointer devicemodel="Logitech.Gaming.Mouse.G600">
