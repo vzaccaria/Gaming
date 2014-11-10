@@ -1190,6 +1190,11 @@
       <mode color="#00ff00" shiftstate="2"/>
       <mode color="#0000ff" shiftstate="3"/>
     </backlight>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G600">
+      <mode color="#ff0000" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#00ff00" shiftstate="3"/>
+    </backlight>
     <script>function OnEvent(event, arg)
 	--OutputLogMessage("event = %s, arg = %s\n", event, arg);
 end</script>

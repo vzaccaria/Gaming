@@ -82,7 +82,7 @@
           }
         ]
       },
-      "hardwareMode" : true,
+      "hardwareMode" : false,
       "powerMode" : 2,
       "reportRate" : 500
     },
