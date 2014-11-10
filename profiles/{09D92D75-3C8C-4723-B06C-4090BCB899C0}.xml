@@ -1071,47 +1071,38 @@
       <assignment shiftstate="4" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" backup="false"/>
       <assignment shiftstate="6" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button9" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button9" macroguid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button9" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button9" macroguid="{16CE29C8-EF4A-4A89-A5D7-E4B23DD3EBBF}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button9" macroguid="{831BAF74-F534-4A2F-9837-FE9360CD6E16}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button10" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button10" macroguid="{EF9BDE18-6D40-46EC-BB6F-2B6B97FC4708}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button10" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button10" macroguid="{3D0B7F20-6A4E-40C2-85F6-3ADAC88F4821}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button10" macroguid="{CBAE83FD-C3F0-4519-9E9F-ADB8ECF95950}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button11" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button11" macroguid="{2C5D832D-01A5-4BA7-BF2F-C9D0F02F9B9B}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button11" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button11" macroguid="{2B530C21-C454-4F87-BF15-97D9399BB92F}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button11" macroguid="{0967126D-9E0A-43AF-A0B4-1B8DBD1829B5}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button12" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button12" macroguid="{F065C8A3-6B5B-452D-AC9D-34134D64C2F0}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button12" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button12" macroguid="{BABFE26B-2A5E-4A4B-BBE2-265F58FF05D2}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button12" macroguid="{48E88BC6-7598-4AA8-BA98-56D651159A89}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button13" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button13" macroguid="{0F69FAA0-21C8-4B30-A882-9E056A0D4746}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button13" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button13" macroguid="{1DA83A7B-A8FE-4665-B7FD-292A1A704B44}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button13" macroguid="{88763271-111E-4CA9-8272-66ECD2228B8E}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button14" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button14" macroguid="{E46C2370-6DA6-4E19-9F59-9CD725048449}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button14" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button14" macroguid="{EE24828F-47AF-4005-97FD-16A21B8AD7BB}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button14" macroguid="{46583ED1-F82D-4920-BEE1-E749F6A78AAD}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button15" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button15" macroguid="{6019D195-A6D4-4521-B138-E6A980E7DB4B}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button15" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button15" macroguid="{C53AF618-4FA5-48E0-8F5B-6D82FE3745DB}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button15" macroguid="{59CEDE2A-9AA9-4D34-AF5E-F1379F24BE8A}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button16" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button16" macroguid="{A1477CB4-0BC2-4AD0-98A9-91DFD6440205}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button16" macroguid="{89F0C712-9AF7-4099-9C53-1868BF5B9A4E}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button16" macroguid="{CC132DCA-CD9D-4595-B2D8-61EFB682FB35}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button16" macroguid="{762BA7A2-D3F7-478F-AD7C-2C1C6D118357}" original="false" backup="false"/>
-      <assignment shiftstate="1" contextid="Button17" macroguid="{57774996-1BEF-4159-827C-660E5E4F11A4}" original="false" backup="false"/>
       <assignment shiftstate="2" contextid="Button17" macroguid="{7C31DF1D-33DA-40E8-BE66-F297B1B831FC}" original="false" backup="false"/>
       <assignment shiftstate="3" contextid="Button17" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button17" macroguid="{8B1C989A-A6C3-44CF-9C2C-E9779B82518F}" original="false" backup="false"/>
@@ -1131,6 +1122,15 @@
       <assignment shiftstate="3" contextid="Button20" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="false" backup="false"/>
       <assignment shiftstate="4" contextid="Button20" macroguid="{FF9D12D3-1328-4E3E-91E4-BD51FEEB502D}" original="false" backup="false"/>
       <assignment shiftstate="5" contextid="Button20" macroguid="{E1BBB279-B80E-4E7E-A4C8-59147195B49C}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button9" macroguid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button10" macroguid="{EF9BDE18-6D40-46EC-BB6F-2B6B97FC4708}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button11" macroguid="{2C5D832D-01A5-4BA7-BF2F-C9D0F02F9B9B}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button12" macroguid="{F065C8A3-6B5B-452D-AC9D-34134D64C2F0}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button13" macroguid="{0F69FAA0-21C8-4B30-A882-9E056A0D4746}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button14" macroguid="{E46C2370-6DA6-4E19-9F59-9CD725048449}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button15" macroguid="{6019D195-A6D4-4521-B138-E6A980E7DB4B}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button16" macroguid="{A1477CB4-0BC2-4AD0-98A9-91DFD6440205}" original="false" backup="false"/>
+      <assignment shiftstate="1" contextid="Button17" macroguid="{7C31DF1D-33DA-40E8-BE66-F297B1B831FC}" original="false" backup="false"/>
     </assignments>
     <pointers>
       <pointer devicemodel="Logitech.Gaming.Mouse.G600">
