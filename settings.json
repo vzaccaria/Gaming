@@ -56,6 +56,9 @@
   },
   "mainwindow" : 
   {
+    "ScanForGames" : false,
+    "dynamicImageDownload" : true,
+    "enableLEDSDK" : true,
     "lastUsedDevice" : "Logitech.Gaming.Mouse.G600"
   },
   "notification" : 
@@ -90,12 +93,15 @@
   },
   "profiler" : 
   {
+    "autoScannedForGames" : true,
     "defaultProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
     "enableQuickMacroDelays" : false,
     "joystickMouseSpeed" : 127,
+    "lastProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
     "showProfileActivationOnLCD" : true,
     "showQuickMacrosOnLCD" : true
   },
+  "settingsClicked" : true,
   "theme" : 
   {
     "Logitech.Gaming.Keyboard.GWOW" : 
