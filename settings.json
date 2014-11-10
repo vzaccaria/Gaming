@@ -1,0 +1,106 @@
+{
+  "First Time Launch" : true,
+  "backlight" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : "#ff0000",
+      "M2" : "#ffffff",
+      "M3" : "#00ff00"
+    }
+  },
+  "lcd" : 
+  {
+    "applets" : 
+    {
+      "en-US" : 
+      {
+        "2ee4" : 
+        {
+          "appPath" : "/Applications/Logitech/Logitech Gaming Software.app",
+          "autostartable" : false,
+          "format" : 1,
+          "iconPath" : "",
+          "name" : "G-Series Profile Selector"
+        },
+        "3f6d" : 
+        {
+          "appPath" : "/Applications/Logitech/Logitech Gaming Software.app",
+          "autostartable" : false,
+          "format" : 0,
+          "iconPath" : "",
+          "name" : "G-Series Profile Selector"
+        },
+        "6300" : 
+        {
+          "appPath" : "/Applications/Logitech/Logitech Gaming Software.app/Contents/MacOS/LCore",
+          "autostartable" : false,
+          "format" : 0,
+          "iconPath" : "",
+          "name" : "Logitech Gaming Profiler"
+        },
+        "7289" : 
+        {
+          "appPath" : "/Applications/Logitech/Logitech Gaming Software.app/Contents/MacOS/LCore",
+          "autostartable" : false,
+          "format" : 1,
+          "iconPath" : "",
+          "name" : "Logitech Gaming Profiler"
+        }
+      }
+    }
+  },
+  "mainapp" : 
+  {
+    "autostart" : true
+  },
+  "mainwindow" : 
+  {
+    "lastUsedDevice" : "Logitech.Gaming.Mouse.G600"
+  },
+  "notification" : 
+  {
+    "showBatteryWarningOnLCD" : true,
+    "showBatteryWarningOnTaskbar" : true
+  },
+  "pointer" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "dpi" : 
+      {
+        "currentIndex" : 0,
+        "defaultIndex" : 0,
+        "shiftIndex" : 0,
+        "syncXY" : true,
+        "values" : 
+        [
+          {
+            "enabled" : true,
+            "x" : 1200,
+            "y" : 1200
+          }
+        ]
+      },
+      "hardwareMode" : true,
+      "powerMode" : 2,
+      "reportRate" : 500
+    },
+    "hasAcceleration" : false
+  },
+  "profiler" : 
+  {
+    "defaultProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+    "enableQuickMacroDelays" : false,
+    "joystickMouseSpeed" : 127,
+    "showProfileActivationOnLCD" : true,
+    "showQuickMacrosOnLCD" : true
+  },
+  "theme" : 
+  {
+    "Logitech.Gaming.Keyboard.GWOW" : 
+    {
+      "devicePresent" : false
+    }
+  }
+}
