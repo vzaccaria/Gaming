@@ -4,9 +4,65 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : "#ff0000",
+      "M1" : "#00aaff",
       "M2" : "#ffffff",
       "M3" : "#00ff00"
+    }
+  },
+  "backlight.brightness.slider" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : "100"
+    }
+  },
+  "backlight.brightness.swatch" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : "#000000"
+    }
+  },
+  "backlight_control.cyclelighting" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : true
+    }
+  },
+  "backlight_control.lightingeffect" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : false
+    }
+  },
+  "backlight_control.mode" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : 1
+    }
+  },
+  "backlight_control.sleepenable" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : false
+    }
+  },
+  "backlight_control.sleeptimer" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : 30
+    }
+  },
+  "backlight_control.slider" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "M1" : 9
     }
   },
   "lcd" : 
