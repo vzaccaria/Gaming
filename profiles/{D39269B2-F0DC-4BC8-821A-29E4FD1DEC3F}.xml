@@ -738,17 +738,14 @@
       <assignment shiftstate="3" contextid="Button11" macroguid="{7784B108-0F2E-4458-A3B3-18291911E3A9}" backup="false" original="false"/>
       <assignment shiftstate="4" contextid="Button11" macroguid="{FD0ACD4A-0023-4677-B12D-999BD8DDC8D0}" backup="false" original="false"/>
       <assignment shiftstate="5" contextid="Button11" macroguid="{572AFCC3-D23C-40ED-9337-4A300C222C1E}" backup="false" original="false"/>
-      <assignment shiftstate="1" contextid="Button12" macroguid="{AA7F0D89-CA23-4D0E-81D7-40F525D7EE60}" backup="false" original="false"/>
       <assignment shiftstate="2" contextid="Button12" macroguid="{F69DDB8D-B1B2-440D-A18D-E29C981A7053}" backup="false" original="false"/>
       <assignment shiftstate="3" contextid="Button12" macroguid="{AA7F0D89-CA23-4D0E-81D7-40F525D7EE60}" backup="false" original="false"/>
       <assignment shiftstate="4" contextid="Button12" macroguid="{0C84790D-CF17-480B-B960-F19BAADE55A5}" backup="false" original="false"/>
       <assignment shiftstate="5" contextid="Button12" macroguid="{69C4404F-8844-4532-9312-04CF7899CCFF}" backup="false" original="false"/>
-      <assignment shiftstate="1" contextid="Button13" macroguid="{7189FBDB-7334-474F-8923-358701F7F148}" backup="false" original="false"/>
       <assignment shiftstate="2" contextid="Button13" macroguid="{F2BC5AAF-00CF-413F-BAFD-111C37BD5DD1}" backup="false" original="false"/>
       <assignment shiftstate="3" contextid="Button13" macroguid="{7189FBDB-7334-474F-8923-358701F7F148}" backup="false" original="false"/>
       <assignment shiftstate="4" contextid="Button13" macroguid="{6DC375AC-6A20-4127-A2CD-BA4DFF468000}" backup="false" original="false"/>
       <assignment shiftstate="5" contextid="Button13" macroguid="{0F507382-4BF9-4093-8766-67DB0BC16694}" backup="false" original="false"/>
-      <assignment shiftstate="1" contextid="Button14" macroguid="{EFA9FFFB-B837-44B9-9504-90C694238B3A}" backup="false" original="false"/>
       <assignment shiftstate="2" contextid="Button14" macroguid="{BE99E587-04C6-4CDC-A151-F702ED8916F7}" backup="false" original="false"/>
       <assignment shiftstate="3" contextid="Button14" macroguid="{EFA9FFFB-B837-44B9-9504-90C694238B3A}" backup="false" original="false"/>
       <assignment shiftstate="4" contextid="Button14" macroguid="{ED52E1AF-9C68-4F69-8E63-283E64123AAF}" backup="false" original="false"/>
@@ -783,6 +780,9 @@
       <assignment shiftstate="3" contextid="Button20" macroguid="{2D952442-CCE4-4D28-B03C-F5F416B428D4}" backup="false" original="false"/>
       <assignment shiftstate="4" contextid="Button20" macroguid="{779DB3B1-BA5F-49B8-B136-63F0F43B77D5}" backup="false" original="false"/>
       <assignment shiftstate="5" contextid="Button20" macroguid="{A246A29E-1251-490F-A94E-C69B000804A0}" backup="false" original="false"/>
+      <assignment shiftstate="1" contextid="Button12" macroguid="{F69DDB8D-B1B2-440D-A18D-E29C981A7053}" backup="false" original="false"/>
+      <assignment shiftstate="1" contextid="Button13" macroguid="{F2BC5AAF-00CF-413F-BAFD-111C37BD5DD1}" backup="false" original="false"/>
+      <assignment shiftstate="1" contextid="Button14" macroguid="{BE99E587-04C6-4CDC-A151-F702ED8916F7}" backup="false" original="false"/>
     </assignments>
     <backlight devicemodel="Logitech.Gaming.Mouse.G600">
       <mode shiftstate="1" color="#ff3300"/>
