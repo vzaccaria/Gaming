@@ -4,65 +4,132 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : "#00aaff",
+      "Default Profile" : 
+      {
+        "M1" : "#0095ff"
+      },
+      "M1" : "#ff2200",
       "M2" : "#ffffff",
-      "M3" : "#00ff00"
+      "M3" : "#00ff00",
+      "Sublime text" : 
+      {
+        "M1" : "#ff3300"
+      },
+      "enablecolor" : true
     }
   },
   "backlight.brightness.slider" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : "100"
+      "Default Profile" : 
+      {
+        "M1" : "100"
+      },
+      "M1" : "100",
+      "Sublime text" : 
+      {
+        "M1" : "100"
+      }
     }
   },
   "backlight.brightness.swatch" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : "#000000"
+      "Default Profile" : 
+      {
+        "M1" : "#000000"
+      },
+      "M1" : "#000000",
+      "Sublime text" : 
+      {
+        "M1" : "#000000"
+      }
     }
   },
   "backlight_control.cyclelighting" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : true
+      "Default Profile" : 
+      {
+        "M1" : true
+      },
+      "M1" : true,
+      "Sublime text" : 
+      {
+        "M1" : false
+      }
     }
   },
   "backlight_control.lightingeffect" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : false
+      "Default Profile" : 
+      {
+        "M1" : false
+      },
+      "M1" : false,
+      "Sublime text" : 
+      {
+        "M1" : false
+      }
     }
   },
   "backlight_control.mode" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : 1
+      "Default Profile" : 1,
+      "M1" : 1,
+      "Sublime text" : 1
     }
   },
   "backlight_control.sleepenable" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : false
+      "Default Profile" : 
+      {
+        "M1" : false
+      },
+      "M1" : false,
+      "Sublime text" : 
+      {
+        "M1" : false
+      }
     }
   },
   "backlight_control.sleeptimer" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : 30
+      "Default Profile" : 
+      {
+        "M1" : 30
+      },
+      "M1" : 30,
+      "Sublime text" : 
+      {
+        "M1" : 30
+      }
     }
   },
   "backlight_control.slider" : 
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
-      "M1" : 9
+      "Default Profile" : 
+      {
+        "M1" : 9
+      },
+      "M1" : 9,
+      "Sublime text" : 
+      {
+        "M1" : 9
+      }
     }
   },
   "lcd" : 

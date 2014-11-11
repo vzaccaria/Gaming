@@ -1191,7 +1191,7 @@
       <mode shiftstate="3" color="#0000ff"/>
     </backlight>
     <backlight devicemodel="Logitech.Gaming.Mouse.G600">
-      <mode shiftstate="1" color="#ff0000"/>
+      <mode shiftstate="1" color="#0095ff"/>
       <mode shiftstate="2" color="#ffffff"/>
       <mode shiftstate="3" color="#00ff00"/>
     </backlight>
