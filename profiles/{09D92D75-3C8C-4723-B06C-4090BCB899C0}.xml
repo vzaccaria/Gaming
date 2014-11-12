@@ -460,11 +460,6 @@
           <modifier value="LCTRL"/>
         </keystroke>
       </macro>
-      <macro guid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" hidden="false" name="-">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="MINUS"/>
-        </keystroke>
-      </macro>
       <macro guid="{FE468382-5E64-47FD-9634-B2768DE6F0F6}" devicecategory="Logitech.Gaming.Mouse.G600" hidden="false" name="NUM -">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="NUMMINUS"/>
@@ -480,11 +475,6 @@
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="NUMMINUS"/>
           <modifier value="LCTRL"/>
-        </keystroke>
-      </macro>
-      <macro guid="{EAA116D5-25EA-4081-86A1-F96805600C38}" hidden="false" name="=">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="EQUAL"/>
         </keystroke>
       </macro>
       <macro guid="{57DDB18A-7DAB-4A65-A302-9C8CE231C099}" devicecategory="Logitech.Gaming.Mouse.G600" hidden="false" name="NUM +">
@@ -839,6 +829,18 @@
           <modifier value="LCTRL"/>
         </keystroke>
       </macro>
+      <macro guid="{EAA116D5-25EA-4081-86A1-F96805600C38}" hidden="false" name="Monitor Right">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro guid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" hidden="false" name="Monitor Left">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
     </macros>
     <assignments devicecategory="Logitech.Gaming.Keyboard">
       <assignment backup="false" contextid="G1" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" original="false" shiftstate="1"/>
@@ -1107,12 +1109,10 @@
       <assignment backup="false" contextid="Button17" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="3"/>
       <assignment backup="false" contextid="Button17" macroguid="{8B1C989A-A6C3-44CF-9C2C-E9779B82518F}" original="false" shiftstate="4"/>
       <assignment backup="false" contextid="Button17" macroguid="{90DF5D18-C510-461E-A0DF-09DCAC73624C}" original="false" shiftstate="5"/>
-      <assignment backup="false" contextid="Button18" macroguid="{1D3A15F0-9C55-4BA5-A415-AD4A636BCC7F}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button18" macroguid="{4E5864AF-BD47-4DBF-AE98-3BB450E2E087}" original="false" shiftstate="2"/>
       <assignment backup="false" contextid="Button18" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" original="false" shiftstate="3"/>
       <assignment backup="false" contextid="Button18" macroguid="{8B2B2BA1-0891-4B83-916B-C410DFDB63D9}" original="false" shiftstate="4"/>
       <assignment backup="false" contextid="Button18" macroguid="{519F5E41-1058-4CAA-8961-4BDCCC460972}" original="false" shiftstate="5"/>
-      <assignment backup="false" contextid="Button19" macroguid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button19" macroguid="{FE468382-5E64-47FD-9634-B2768DE6F0F6}" original="false" shiftstate="2"/>
       <assignment backup="false" contextid="Button19" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" original="false" shiftstate="3"/>
       <assignment backup="false" contextid="Button19" macroguid="{1F5FD395-B6C8-46BC-A5F7-AAD1B3EED260}" original="false" shiftstate="4"/>
@@ -1131,6 +1131,7 @@
       <assignment backup="false" contextid="Button15" macroguid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button16" macroguid="{EF9BDE18-6D40-46EC-BB6F-2B6B97FC4708}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button17" macroguid="{2C5D832D-01A5-4BA7-BF2F-C9D0F02F9B9B}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button18" macroguid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" original="false" shiftstate="1"/>
     </assignments>
     <pointers>
       <pointer devicemodel="Logitech.Gaming.Mouse.G600">
