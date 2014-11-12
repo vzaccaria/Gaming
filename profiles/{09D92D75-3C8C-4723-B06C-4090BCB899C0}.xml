@@ -1130,10 +1130,10 @@
       <assignment backup="false" contextid="Button9" macroguid="{6019D195-A6D4-4521-B138-E6A980E7DB4B}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button10" macroguid="{A1477CB4-0BC2-4AD0-98A9-91DFD6440205}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button11" macroguid="{7C31DF1D-33DA-40E8-BE66-F297B1B831FC}" original="false" shiftstate="1"/>
-      <assignment backup="false" contextid="Button15" macroguid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button16" macroguid="{EF9BDE18-6D40-46EC-BB6F-2B6B97FC4708}" original="false" shiftstate="1"/>
-      <assignment backup="false" contextid="Button17" macroguid="{2C5D832D-01A5-4BA7-BF2F-C9D0F02F9B9B}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button18" macroguid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button15" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button17" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="1"/>
     </assignments>
     <pointers>
       <pointer devicemodel="Logitech.Gaming.Mouse.G600">
