@@ -204,11 +204,6 @@
           <do task="rightclick"/>
         </mousefunction>
       </macro>
-      <macro guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" hidden="false" name="Middle Click">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="middleclick"/>
-        </mousefunction>
-      </macro>
       <macro guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" devicecategory="Logitech.Gaming.Mouse" hidden="false" name="DPI Up">
         <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
           <do task="dpiup"/>
@@ -844,6 +839,11 @@
           <modifier value="LGUI"/>
         </keystroke>
       </macro>
+      <macro guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" hidden="false" name="Middle Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
     </macros>
     <assignments devicecategory="Logitech.Gaming.Keyboard">
       <assignment backup="false" contextid="G1" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" original="false" shiftstate="1"/>
@@ -1131,9 +1131,9 @@
       <assignment backup="false" contextid="Button18" macroguid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button15" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button17" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="1"/>
-      <assignment backup="false" contextid="Button6" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button7" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button8" macroguid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button6" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="false" shiftstate="1"/>
     </assignments>
     <pointers>
       <pointer devicemodel="Logitech.Gaming.Mouse.G600">
