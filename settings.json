@@ -203,8 +203,8 @@
         [
           {
             "enabled" : true,
-            "x" : 3000,
-            "y" : 3000
+            "x" : 2500,
+            "y" : 2500
           }
         ]
       },
@@ -220,7 +220,7 @@
     "defaultProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
     "enableQuickMacroDelays" : false,
     "joystickMouseSpeed" : 127,
-    "lastProfile" : "{D39269B2-F0DC-4BC8-821A-29E4FD1DEC3F}",
+    "lastProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
     "showProfileActivationOnLCD" : true,
     "showQuickMacrosOnLCD" : true
   },
