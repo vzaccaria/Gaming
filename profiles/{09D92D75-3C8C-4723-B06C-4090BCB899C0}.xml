@@ -209,16 +209,6 @@
           <do task="middleclick"/>
         </mousefunction>
       </macro>
-      <macro guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" hidden="false" name="Back">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="back"/>
-        </mousefunction>
-      </macro>
-      <macro guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" hidden="false" name="Forward">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="forward"/>
-        </mousefunction>
-      </macro>
       <macro guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" devicecategory="Logitech.Gaming.Mouse" hidden="false" name="DPI Up">
         <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
           <do task="dpiup"/>
@@ -838,6 +828,18 @@
       <macro guid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" hidden="false" name="Monitor Left">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="M"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" hidden="false" name="Space Left">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LEFT"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" hidden="false" name="Space Right">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RIGHT"/>
           <modifier value="LGUI"/>
         </keystroke>
       </macro>
