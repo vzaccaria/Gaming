@@ -259,17 +259,6 @@
           <do task="gshift"/>
         </mousefunction>
       </macro>
-      <macro guid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" devicecategory="Logitech.Gaming.Mouse.G600" hidden="false" name="Shift + B">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="B"/>
-          <modifier value="LSHIFT"/>
-        </keystroke>
-      </macro>
-      <macro guid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" devicecategory="Logitech.Gaming.Mouse.G600" hidden="false" name="Mode Switch (G600)">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="modeswitchg600"/>
-        </mousefunction>
-      </macro>
       <macro guid="{0E974050-37A2-48F6-9EC4-B440E7B3A1D8}" devicecategory="Logitech.Gaming.Mouse.G600" hidden="false" name="NUM 1">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="NUM1"/>
@@ -843,6 +832,18 @@
           <modifier value="LGUI"/>
         </keystroke>
       </macro>
+      <macro guid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" hidden="false" name="Close App">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro guid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" devicecategory="Logitech.Gaming.Mouse.G600" hidden="false" name="Close window">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
     </macros>
     <assignments devicecategory="Logitech.Gaming.Keyboard">
       <assignment backup="false" contextid="G1" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" original="false" shiftstate="1"/>
@@ -1059,17 +1060,13 @@
       <assignment backup="false" contextid="Button5" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="4"/>
       <assignment backup="false" contextid="Button5" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="5"/>
       <assignment backup="false" contextid="Button5" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="6"/>
-      <assignment backup="false" contextid="Button6" macroguid="{2B44736A-B9FF-4503-B896-B0BB4266B783}" original="false" shiftstate="1"/>
-      <assignment backup="false" contextid="Button6" macroguid="{2B44736A-B9FF-4503-B896-B0BB4266B783}" original="false" shiftstate="4"/>
       <assignment backup="false" contextid="Button6" macroguid="{2B44736A-B9FF-4503-B896-B0BB4266B783}" original="false" shiftstate="2"/>
       <assignment backup="false" contextid="Button6" macroguid="{2B44736A-B9FF-4503-B896-B0BB4266B783}" original="false" shiftstate="5"/>
       <assignment backup="false" contextid="Button6" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" original="false" shiftstate="3"/>
-      <assignment backup="false" contextid="Button7" macroguid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button7" macroguid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" original="false" shiftstate="2"/>
       <assignment backup="false" contextid="Button7" macroguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" original="false" shiftstate="3"/>
       <assignment backup="false" contextid="Button7" macroguid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" original="false" shiftstate="4"/>
       <assignment backup="false" contextid="Button7" macroguid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" original="false" shiftstate="5"/>
-      <assignment backup="false" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" shiftstate="2"/>
       <assignment backup="false" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" shiftstate="3"/>
       <assignment backup="false" contextid="Button8" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" shiftstate="4"/>
@@ -1134,6 +1131,9 @@
       <assignment backup="false" contextid="Button18" macroguid="{DEFCA2FD-3BC3-4961-BC12-CADB59BCB94D}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button15" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="false" shiftstate="1"/>
       <assignment backup="false" contextid="Button17" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button6" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button7" macroguid="{682E1D3C-27AB-4D24-961B-67C031BFF0D1}" original="false" shiftstate="1"/>
+      <assignment backup="false" contextid="Button8" macroguid="{228EFAE9-33B1-4E68-890F-A5007FE5F4D6}" original="false" shiftstate="1"/>
     </assignments>
     <pointers>
       <pointer devicemodel="Logitech.Gaming.Mouse.G600">
