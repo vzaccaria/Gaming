@@ -221,6 +221,8 @@
     "enableQuickMacroDelays" : false,
     "joystickMouseSpeed" : 127,
     "lastProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+    "recordMultiKeyMacroDelays" : false,
+    "showMacroActivationOnLCD" : false,
     "showProfileActivationOnLCD" : true,
     "showQuickMacrosOnLCD" : true
   },
